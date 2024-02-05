@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,vue
 
 .DS_Store
+docs/node_modules/*
 
 ### VisualStudioCode ###
 .vscode/*
